@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, I'm Labiba</h1>
+<h1 align="center">Hey, I'm Labiba</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labiba6&label=Profile%20views&color=0e75b6&style=flat" alt="labiba6" /> </p>
 
 <h3 align="left">Connect with me:</h3>
